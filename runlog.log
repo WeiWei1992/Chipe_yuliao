@@ -1,0 +1,274 @@
+2020-08-03 13:44:51,304 chipe_audio_ui.py[line:74] INFO xxx
+2020-08-03 13:48:14,872 chipe_audio_ui.py[line:75] INFO xxx
+2020-08-03 13:49:21,383 chipe_audio_ui.py[line:76] INFO xxx
+2020-08-03 13:50:07,452 chipe_audio_ui.py[line:76] INFO xxx
+2020-08-03 13:51:29,034 chipe_audio_ui.py[line:79] INFO xxx
+2020-08-03 13:52:08,738 chipe_audio_ui.py[line:88] INFO xxx
+2020-08-03 13:52:14,209 chipe_audio_ui.py[line:64] INFO audio_path: C:/Users/weiwei/Desktop/语音
+2020-08-03 13:52:14,231 chipe_audio_ui.py[line:67] INFO result_path: C:/Users/weiwei/Desktop/语音
+2020-08-03 13:54:52,477 chipe_audio_ui.py[line:91] INFO xxx
+2020-08-03 13:54:54,609 chipe_audio_ui.py[line:64] INFO audio_path: 
+2020-08-03 13:54:54,609 chipe_audio_ui.py[line:67] INFO result_path: 
+2020-08-03 13:57:56,993 chipe_audio_ui.py[line:91] INFO xxx
+2020-08-03 13:57:58,346 chipe_audio_ui.py[line:64] INFO audio_path: 
+2020-08-03 13:57:58,346 chipe_audio_ui.py[line:67] INFO result_path: 
+2020-08-03 14:01:14,307 chipe_audio_ui.py[line:91] INFO xxx
+2020-08-03 14:01:15,544 chipe_audio_ui.py[line:64] INFO audio_path: 
+2020-08-03 14:01:15,544 chipe_audio_ui.py[line:67] INFO result_path: 
+2020-08-03 14:01:18,728 chipe_audio_ui.py[line:64] INFO audio_path: 
+2020-08-03 14:01:18,728 chipe_audio_ui.py[line:67] INFO result_path: 
+2020-08-03 14:01:29,096 chipe_audio_ui.py[line:64] INFO audio_path: 
+2020-08-03 14:01:29,096 chipe_audio_ui.py[line:67] INFO result_path: 
+2020-08-03 14:01:45,462 chipe_audio_ui.py[line:91] INFO xxx
+2020-08-03 14:01:53,871 chipe_audio_ui.py[line:64] INFO audio_path: C:/Users/weiwei/Desktop/语音
+2020-08-03 14:01:53,872 chipe_audio_ui.py[line:67] INFO result_path: C:/Users/weiwei/Desktop/语音/App
+2020-08-03 14:01:59,264 chipe_audio_ui.py[line:64] INFO audio_path: C:/Users/weiwei/Desktop/语音
+2020-08-03 14:01:59,264 chipe_audio_ui.py[line:67] INFO result_path: C:/Users/weiwei/Desktop/语音/App
+2020-08-03 14:02:36,019 chipe_audio_ui.py[line:94] INFO xxx
+2020-08-03 14:02:39,328 chipe_audio_ui.py[line:64] INFO audio_path: 
+2020-08-03 14:02:39,328 chipe_audio_ui.py[line:67] INFO result_path: 
+2020-08-03 14:10:29,995 chipe_audio_ui.py[line:109] INFO xxx
+2020-08-03 14:11:40,992 chipe_audio_ui.py[line:109] INFO xxx
+2020-08-03 14:12:02,707 chipe_audio_ui.py[line:109] INFO xxx
+2020-08-03 14:13:30,046 chipe_audio_ui.py[line:115] INFO xxx
+2020-08-03 14:13:43,941 chipe_audio_ui.py[line:79] INFO audio_path: C:/Users/weiwei/Desktop/语音/App
+2020-08-03 14:13:43,942 chipe_audio_ui.py[line:82] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 14:13:43,942 chipe_audio_ui.py[line:88] INFO ship_time： 3
+2020-08-03 14:13:43,942 chipe_audio_ui.py[line:91] INFO audio_db: -20
+2020-08-03 14:14:28,587 chipe_audio_ui.py[line:116] INFO xxx
+2020-08-03 14:14:44,282 chipe_audio_ui.py[line:116] INFO xxx
+2020-08-03 14:14:45,742 chipe_audio_ui.py[line:79] INFO audio_path: 
+2020-08-03 14:14:45,742 chipe_audio_ui.py[line:82] INFO result_path: 
+2020-08-03 14:14:45,742 chipe_audio_ui.py[line:86] INFO ship_time： 
+2020-08-03 14:14:45,742 chipe_audio_ui.py[line:89] INFO audio_db: 
+2020-08-03 14:14:55,716 chipe_audio_ui.py[line:116] INFO xxx
+2020-08-03 14:14:57,174 chipe_audio_ui.py[line:79] INFO audio_path: 
+2020-08-03 14:14:57,174 chipe_audio_ui.py[line:82] INFO result_path: 
+2020-08-03 14:14:57,174 chipe_audio_ui.py[line:86] INFO ship_time： 
+2020-08-03 14:14:57,174 chipe_audio_ui.py[line:89] INFO audio_db: 
+2020-08-03 14:14:57,174 chipe_audio_ui.py[line:92] INFO 是否输出txt: 0
+2020-08-03 14:14:59,053 chipe_audio_ui.py[line:79] INFO audio_path: 
+2020-08-03 14:14:59,054 chipe_audio_ui.py[line:82] INFO result_path: 
+2020-08-03 14:14:59,054 chipe_audio_ui.py[line:86] INFO ship_time： 
+2020-08-03 14:14:59,054 chipe_audio_ui.py[line:89] INFO audio_db: 
+2020-08-03 14:14:59,054 chipe_audio_ui.py[line:92] INFO 是否输出txt: 1
+2020-08-03 15:39:55,335 chipe_audio_ui.py[line:124] INFO xxx
+2020-08-03 15:40:17,372 chipe_audio_ui.py[line:124] INFO xxx
+2020-08-03 15:40:26,171 chipe_audio_ui.py[line:124] INFO xxx
+2020-08-03 15:40:54,820 chipe_audio_ui.py[line:124] INFO xxx
+2020-08-03 15:44:27,418 chipe_audio_ui.py[line:125] INFO xxx
+2020-08-03 15:44:29,045 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:44:29,046 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:44:29,046 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:44:29,054 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:44:29,054 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:45:50,515 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 15:45:51,909 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:45:51,909 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:45:51,909 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:45:51,910 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:45:51,910 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:46:24,635 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 15:46:25,733 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:46:25,734 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:46:25,734 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:46:25,734 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:46:25,734 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:46:27,558 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:46:27,558 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:46:27,559 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:46:27,559 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:46:27,559 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:46:43,418 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 15:46:44,839 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:46:44,839 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:46:44,840 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:46:44,840 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:46:44,840 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:46:46,448 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:46:46,448 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:46:46,448 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:46:46,448 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:46:46,448 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:46:47,125 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:46:47,125 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:46:47,126 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:46:47,126 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:46:47,126 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:46:47,592 chipe_audio_ui.py[line:83] INFO audio_path: 
+2020-08-03 15:46:47,592 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:46:47,592 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:46:47,592 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:46:47,592 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:56:36,495 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 15:56:42,819 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App
+2020-08-03 15:56:42,871 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 15:56:42,871 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 15:56:42,871 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 15:56:42,871 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 15:59:55,493 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:00:00,227 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App
+2020-08-03 16:00:00,227 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 16:00:00,227 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 16:00:00,227 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 16:00:00,227 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 16:00:06,557 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:00:11,562 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:00:11,563 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 16:00:11,563 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 16:00:11,563 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 16:00:11,563 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 16:01:48,195 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:01:52,706 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:01:52,707 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 16:01:52,707 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 16:01:52,707 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 16:01:52,707 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 16:07:43,132 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:07:49,019 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:07:49,019 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 16:07:49,019 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 16:07:49,020 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 16:07:49,020 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 16:07:49,021 handle.py[line:115] INFO 这个是wav格式，开始切割
+2020-08-03 16:07:49,135 handle.py[line:115] INFO 这个是wav格式，开始切割
+2020-08-03 16:07:49,135 handle.py[line:115] INFO 这个是wav格式，开始切割
+2020-08-03 16:07:49,135 handle.py[line:115] INFO 这个是wav格式，开始切割
+2020-08-03 16:07:49,135 handle.py[line:115] INFO 这个是wav格式，开始切割
+2020-08-03 16:12:59,044 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:13:03,952 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:13:03,953 chipe_audio_ui.py[line:86] INFO result_path: 
+2020-08-03 16:13:03,953 chipe_audio_ui.py[line:90] INFO ship_time： 
+2020-08-03 16:13:03,953 chipe_audio_ui.py[line:93] INFO audio_db: 
+2020-08-03 16:13:03,953 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 16:13:03,955 handle.py[line:116] INFO 这个是wav格式，开始切割
+2020-08-03 16:13:03,955 handle.py[line:116] INFO 这个是wav格式，开始切割
+2020-08-03 16:13:03,955 handle.py[line:116] INFO 这个是wav格式，开始切割
+2020-08-03 16:13:03,955 handle.py[line:116] INFO 这个是wav格式，开始切割
+2020-08-03 16:13:03,955 handle.py[line:116] INFO 这个是wav格式，开始切割
+2020-08-03 16:21:41,670 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:22:02,855 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:22:02,855 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-03 16:22:02,855 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-03 16:22:02,855 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-03 16:22:02,855 chipe_audio_ui.py[line:96] INFO 是否输出txt: 1
+2020-08-03 16:22:02,856 handle.py[line:116] INFO 1.wav
+2020-08-03 16:22:02,857 handle.py[line:117] INFO 这个是wav格式,开始切割
+2020-08-03 16:24:04,079 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:24:17,975 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:24:17,976 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-03 16:24:17,976 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-03 16:24:17,976 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-03 16:24:17,976 chipe_audio_ui.py[line:96] INFO 是否输出txt: 1
+2020-08-03 16:24:17,978 handle.py[line:118] INFO 1.wav
+2020-08-03 16:24:17,979 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-03 16:37:07,958 chipe_audio_ui.py[line:126] INFO xxx
+2020-08-03 16:37:25,467 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:37:25,468 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-03 16:37:25,468 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-03 16:37:25,468 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-03 16:37:25,468 chipe_audio_ui.py[line:96] INFO 是否输出txt: 1
+2020-08-03 16:37:25,469 handle.py[line:118] INFO 1.wav
+2020-08-03 16:37:25,469 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-03 16:37:32,070 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-03 16:37:32,070 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-03 16:37:32,070 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-03 16:37:32,070 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-03 16:37:32,070 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-03 16:37:32,071 handle.py[line:118] INFO 1.wav
+2020-08-03 16:37:32,071 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:21:28,424 chipe_audio_ui.py[line:126] INFO 开始运行
+2020-08-04 10:21:44,186 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:21:44,187 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:21:44,277 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:21:44,277 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:21:44,277 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-04 10:21:44,278 handle.py[line:118] INFO 1.wav
+2020-08-04 10:21:44,278 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:21:45,914 handle.py[line:118] INFO 2.wav
+2020-08-04 10:21:45,914 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:21:46,898 handle.py[line:118] INFO 3.wav
+2020-08-04 10:21:46,898 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:22:28,512 chipe_audio_ui.py[line:126] INFO 开始运行
+2020-08-04 10:22:41,691 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:22:41,691 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:22:41,691 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:22:41,692 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:22:41,692 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-04 10:22:41,693 handle.py[line:118] INFO 1.wav
+2020-08-04 10:22:41,693 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:22:43,173 handle.py[line:118] INFO 2.wav
+2020-08-04 10:22:43,174 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:22:44,208 handle.py[line:118] INFO 3.wav
+2020-08-04 10:22:44,208 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:22:45,238 handle.py[line:134] INFO 不需要创建同名txt文件
+2020-08-04 10:22:45,238 handle.py[line:137] INFO 测试完成
+2020-08-04 10:23:15,465 chipe_audio_ui.py[line:126] INFO 开始运行
+2020-08-04 10:23:27,748 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:23:27,748 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:23:27,748 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:23:27,748 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:23:27,748 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-04 10:23:27,749 handle.py[line:118] INFO 1.wav
+2020-08-04 10:23:27,749 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:23:29,199 handle.py[line:118] INFO 2.wav
+2020-08-04 10:23:29,199 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:23:30,206 handle.py[line:118] INFO 3.wav
+2020-08-04 10:23:30,206 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:23:31,224 handle.py[line:134] INFO 不需要创建同名txt文件
+2020-08-04 10:23:31,225 handle.py[line:137] INFO 测试完成
+2020-08-04 10:23:38,713 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:23:38,713 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:23:38,713 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:23:38,713 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:23:38,713 chipe_audio_ui.py[line:96] INFO 是否输出txt: 1
+2020-08-04 10:23:38,714 handle.py[line:118] INFO 1.wav
+2020-08-04 10:23:38,715 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:23:39,713 handle.py[line:118] INFO 2.wav
+2020-08-04 10:23:39,714 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:23:40,702 handle.py[line:118] INFO 3.wav
+2020-08-04 10:23:40,702 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:23:41,709 handle.py[line:127] INFO 开始创建同名txt文件
+2020-08-04 10:23:41,721 handle.py[line:137] INFO 测试完成
+2020-08-04 10:23:59,680 chipe_audio_ui.py[line:126] INFO 开始运行
+2020-08-04 10:24:15,857 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:24:15,857 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:24:15,857 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:24:15,858 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:24:15,858 chipe_audio_ui.py[line:96] INFO 是否输出txt: 1
+2020-08-04 10:24:15,858 handle.py[line:118] INFO 1.wav
+2020-08-04 10:24:15,859 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:24:17,269 handle.py[line:118] INFO 2.wav
+2020-08-04 10:24:17,269 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:24:18,242 handle.py[line:118] INFO 3.wav
+2020-08-04 10:24:18,242 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:24:19,419 handle.py[line:127] INFO 开始创建同名txt文件
+2020-08-04 10:24:19,426 handle.py[line:137] INFO 测试完成
+2020-08-04 10:28:48,893 chipe_audio_ui.py[line:126] INFO 开始运行
+2020-08-04 10:29:05,080 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:29:05,080 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:29:05,080 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:29:05,081 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:29:05,081 chipe_audio_ui.py[line:96] INFO 是否输出txt: 1
+2020-08-04 10:29:05,082 handle.py[line:118] INFO 1.wav
+2020-08-04 10:29:05,082 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:29:06,537 handle.py[line:118] INFO 2.wav
+2020-08-04 10:29:06,537 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:29:07,551 handle.py[line:118] INFO 3.wav
+2020-08-04 10:29:07,552 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:29:08,571 handle.py[line:127] INFO 开始创建同名txt文件
+2020-08-04 10:29:08,578 handle.py[line:137] INFO 完成
+2020-08-04 10:29:27,615 chipe_audio_ui.py[line:126] INFO 开始运行
+2020-08-04 10:29:39,865 chipe_audio_ui.py[line:83] INFO audio_path: C:/Users/weiwei/Desktop/语音/App/tmp
+2020-08-04 10:29:39,866 chipe_audio_ui.py[line:86] INFO result_path: C:/Users/weiwei/Desktop/语音/App/tmp/新建文件夹
+2020-08-04 10:29:39,866 chipe_audio_ui.py[line:90] INFO ship_time： 3
+2020-08-04 10:29:39,866 chipe_audio_ui.py[line:93] INFO audio_db: -21
+2020-08-04 10:29:39,866 chipe_audio_ui.py[line:96] INFO 是否输出txt: 0
+2020-08-04 10:29:39,867 handle.py[line:118] INFO 1.wav
+2020-08-04 10:29:39,867 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:29:41,281 handle.py[line:118] INFO 2.wav
+2020-08-04 10:29:41,281 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:29:42,245 handle.py[line:118] INFO 3.wav
+2020-08-04 10:29:42,246 handle.py[line:119] INFO 这个是wav格式,开始切割
+2020-08-04 10:29:43,436 handle.py[line:134] INFO 不需要创建同名txt文件
+2020-08-04 10:29:43,437 handle.py[line:137] INFO 完成
